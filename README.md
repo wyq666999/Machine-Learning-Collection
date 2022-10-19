@@ -1,4 +1,4 @@
-<p align="center"><img width="100%" src="ML/others/logo/torch_and_tf.svg" /></p>
+<p align="center"><img width="100%" src="ML/others/logo/torch_and_tf.svg" /></p> 
 
 --------------------------------------------------------------------------------
 
